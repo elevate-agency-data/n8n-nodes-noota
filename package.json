@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-noota",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Node N8N to interact with Noota",
   "license": "MIT",
   "homepage": "https://github.com/elevate-agency-data/n8n-nodes-noota",
@@ -12,9 +12,9 @@
     "noota-n8n-node",
     "noota-n8n-node-package"
   ],
-  "author": { 
+  "author": {
     "name": "elevate_agency",
-    "email": "conseil@elevate-agency.com" 
+    "email": "conseil@elevate-agency.com"
   },
   "repository": {
     "type": "git",
@@ -50,7 +50,7 @@
     "release-it": "^19.0.4",
     "typescript": "5.9.2"
   },
-  "peerDependencies": { 
-    "n8n-workflow": "*" 
+  "peerDependencies": {
+    "n8n-workflow": "*"
   }
 }
