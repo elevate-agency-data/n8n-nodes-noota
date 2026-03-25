@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-noota",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Node N8N to interact with Noota",
   "license": "MIT",
   "homepage": "https://github.com/elevate-agency-data/n8n-nodes-noota",
